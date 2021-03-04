@@ -1,4 +1,3 @@
-# mona
 <h1>MONA</h1>
 
 This repository contains all files for the a 3D **MO**del for the evaluation of ma**N**ual **A**ssembly tasks.
