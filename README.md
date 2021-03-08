@@ -12,6 +12,14 @@ Contains checklists (in English and German) for all needed materials and parts f
 
 Contains work instructions (in English and German) for the full assembly of MONA.
 
+<h3>Images</h3>
+
+All images used in the the work instruction as well as images for pre-assembly.
+
+<h3>Models</h3>
+
+Contains all individual parts for 3D printing (.stl file format) and the whole MONA for use in digital work instructions (.obj and .fbx file format).
+
 <h3>License</h3>
 
 When using this abstract assembly object for your evaluations, cite this paper: TODO
