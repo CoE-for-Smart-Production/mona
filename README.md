@@ -22,4 +22,6 @@ Contains all individual parts for 3D printing (.stl file format) and the whole M
 
 <h3>License</h3>
 
-When using this abstract assembly object for your evaluations, cite this paper: TODO
+When using this abstract assembly object for your evaluations, cite this paper: 
+
+Blattner, Jakob and Wolfartsberger, Josef and Lindorfer, René and Froschauer, Roman and Pimminger, Sebastian and Kurschl, Werner, A Standardized Approach to Evaluate Assistive Systems for Manual Assembly Tasks in Industry (June 2, 2021). Proceedings of the Conference on Learning Factories (CLF) 2021, Available at SSRN: https://ssrn.com/abstract=3858632 or http://dx.doi.org/10.2139/ssrn.3858632
